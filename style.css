@@ -20,5 +20,14 @@ a:active{
    color: blue;
 }
 
+/* Text directiom in  Links */
+
+a:link{
+   text-decoration: none;
+}
+
+a:visited{
+   text-decoration: none;
+}
 
 
