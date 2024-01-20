@@ -38,8 +38,13 @@ a:active{
    text-decoration: underline;
 }
 
+/* Visited Links */
+a:visited{
+   background-color: green;
+}
 
 /* Background Color */
 a:link{
    background-color: yellow;
 }
+
