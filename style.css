@@ -64,3 +64,8 @@ a:active{
    background-color: hotpink;
 }
 
+/* Styling List With Colors */
+ul{
+   background: #f99;
+   padding: 20px;
+}
