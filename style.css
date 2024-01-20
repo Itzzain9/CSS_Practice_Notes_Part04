@@ -15,4 +15,10 @@ a:hover{
    color: hotpink;
 }
 
+/* Selected Link */
+a:active{
+   color: blue;
+}
+
+
 
