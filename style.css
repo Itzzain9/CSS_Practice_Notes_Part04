@@ -53,3 +53,7 @@ a:hover{
    background-color: lightseagreen;
 }
 
+/* Selected Link */
+a:active{
+   background-color: hotpink;
+}
