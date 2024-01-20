@@ -57,3 +57,10 @@ a:hover{
 a:active{
    background-color: hotpink;
 }
+
+
+/* Selected Link */
+a:active{
+   background-color: hotpink;
+}
+
