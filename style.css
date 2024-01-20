@@ -100,3 +100,29 @@ li{
    display: inline;
 }
 
+/* Css Border width  */
+p.one{
+   border-style: solid;
+   border-width: 5px;
+}
+
+p.two{
+   border-style: solid;
+   border-width: medium;
+}
+
+p.three{
+   border-style: solid;
+   border-width: 1px;
+}
+
+p{
+   border-top-style: dotted;
+   border-right-style: solid;
+   border-bottom-style: dotted;
+   border-left-style: solid;
+}
+
+p{
+   border-style: dotted solid double dashed;
+}
