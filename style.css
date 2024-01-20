@@ -93,3 +93,10 @@ Block Element
 a{
    display: block;
 }
+
+
+/* Inline Element */
+li{
+   display: inline;
+}
+
