@@ -8,13 +8,13 @@ c) active links<br>
 3- Background color<br>
 4- Lists in css <br>
 a) oder list<br>
-b) unordered list
-5- Image in listt
-6- Position in list 
-7- Short hand list 
-8- Display in css 
-a) Block element 
-b) Inline element
-c) Inline block 
-d) none style
+b) unordered list<br>
+5- Image in listt<br>
+6- Position in list <br>
+7- Short hand list<br> 
+8- Display in css <br>
+a) Block element <br>
+b) Inline element<br>
+c) Inline block <br>
+d) none style<br>
 
