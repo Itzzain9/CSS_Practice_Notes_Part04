@@ -10,4 +10,9 @@ a:visited{
    color: green;
 }
 
+/*Mouse Over Link  */
+a:hover{
+   color: hotpink;
+}
+
 
